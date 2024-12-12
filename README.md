@@ -1,4 +1,4 @@
-### ChatWithPdfUsingGemini
+# ChatWithPdfUsingGemini
 
 ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PDF documents. Using Gemini, the system can read and understand the content of a PDF and answer questions based on it, making it a powerful tool for document-based queries. This project aims to leverage advanced NLP techniques to provide insightful, context-aware responses from a variety of PDFs.
 
