@@ -1,4 +1,4 @@
-<img width="1240" alt="Screenshot 2024-12-12 at 11 40 00 AM" src="https://github.com/user-attachments/assets/04022602-43f9-4aeb-85cf-e1e38a5ca2ef" />#  ChatWithPdfUsingGemini  
+#  ChatWithPdfUsingGemini  
 **ChatWithPdfUsingGemini** is your AI-powered companion for understanding and interacting with PDF documents. Forget endless scrolling and searching through text—just ask questions, and let the chatbot do the heavy lifting! Built with the powerful **Gemini** API, this app transforms static PDFs into dynamic, interactive conversations.  
 
 ## 🎬 Demo  
