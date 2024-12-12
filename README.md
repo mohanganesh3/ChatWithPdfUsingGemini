@@ -23,6 +23,7 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
 	1.	Clone the Repository:
   Clone the repository to your local machine:
   git clone https://github.com/mohanganesh3/ChatWithPdfUsingGemini.git
+  
   cd ChatWithPdfUsingGemini
   2.	Set Up a Virtual Environment:
   It’s recommended to use a virtual environment to manage dependencies:
