@@ -20,7 +20,7 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
 	•	pip (Python package installer)
 
 # Step-by-Step Installation Guide
-  2.Clone the Repository:
+  1.Clone the Repository:
   	Clone the repository to your local machine:
   	git clone https://github.com/mohanganesh3/ChatWithPdfUsingGemini.git
   	cd ChatWithPdfUsingGemini
