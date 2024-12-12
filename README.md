@@ -1,5 +1,18 @@
-#  ChatWithPdfUsingGemini  
+<img width="1240" alt="Screenshot 2024-12-12 at 11 40 00 AM" src="https://github.com/user-attachments/assets/04022602-43f9-4aeb-85cf-e1e38a5ca2ef" />#  ChatWithPdfUsingGemini  
 **ChatWithPdfUsingGemini** is your AI-powered companion for understanding and interacting with PDF documents. Forget endless scrolling and searching through text—just ask questions, and let the chatbot do the heavy lifting! Built with the powerful **Gemini** API, this app transforms static PDFs into dynamic, interactive conversations.  
+
+## 🎬 Demo  
+You can see a demo of the **ChatWithPdfUsingGemini** in action below:
+<img width="1280" alt="Screenshot 2024-12-12 at 11 36 50 AM" src="https://github.com/user-attachments/assets/122167b0-c3a1-4db3-86ab-a54af32eeeda" />
+
+1. **Upload PDF**: Upload a PDF document from your device.  
+2. **Ask Questions**: Ask questions such as “What is the main topic of this document?” or “Summarize the first chapter.”  
+<img width="1238" alt="Screenshot 2024-12-12 at 11 39 43 AM" src="https://github.com/user-attachments/assets/b3cc9194-59ab-444e-866c-cf815f0e806c" />
+
+3. **AI Response**: Get an instant AI response with precise details from the document. 
+<img width="1240" alt="Screenshot 2024-12-12 at 11 40 00 AM" src="https://github.com/user-attachments/assets/268a7520-3a4c-44a9-a06b-0f0d7ee51027" />
+
+
 
 ## 🌟 Features  
 - **📄 PDF Parsing**: Efficiently extract text from your PDFs.  
