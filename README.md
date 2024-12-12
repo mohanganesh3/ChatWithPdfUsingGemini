@@ -1,26 +1,26 @@
-###ChatWithPdfUsingGemini
+### ChatWithPdfUsingGemini
 
 ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PDF documents. Using Gemini, the system can read and understand the content of a PDF and answer questions based on it, making it a powerful tool for document-based queries. This project aims to leverage advanced NLP techniques to provide insightful, context-aware responses from a variety of PDFs.
 
-#Features
+# Features
 	•	PDF Parsing: Efficiently extract and parse text from PDF files.
 	•	AI-powered Chatbot: Engage in a conversation with the PDF content.
 	•	Contextual Understanding: Understand the context of the PDF to answer specific queries.
 	•	Interactive UI: User-friendly interface for uploading PDFs and interacting with the chatbot.
 
-#Technologies Used
+# Technologies Used
 	•	Gemini: To process and understand the content of the PDFs.
 	•	Python: For building the backend.
 	•	Streamlit: For creating an interactive web interface.
 	•	OpenAI’s GPT: To power the AI model that understands the content and generates responses.
 
-#Installation
+# Installation
 
-#Prerequisites
+# Prerequisites
 	•	Python 3.7 or later
 	•	pip (Python package installer)
 
-#Step-by-Step Installation Guide
+# Step-by-Step Installation Guide
 	1.	Clone the Repository:
   Clone the repository to your local machine:
   git clone https://github.com/mohanganesh3/ChatWithPdfUsingGemini.git
@@ -40,7 +40,7 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
   streamlit run app.py
   The app will open in your default browser. You can upload a PDF and start chatting with the chatbot
   
-  #Usage
+  # Usage
 	1.	Upload PDF:
 	•	After launching the app, click the “Upload” button to select and upload a PDF file.
 	2.	Ask Questions:
@@ -49,7 +49,7 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
 	3.	Interactive Chat:
 	•	You can continue chatting with the chatbot by asking more questions. The AI will keep responding based on the PDF content.
 
- #How It Works
+ # How It Works
 
  The system uses the following steps to provide answers:
 	1.	PDF Extraction: The system reads the PDF file and extracts its text.
@@ -57,7 +57,7 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
 	3.	Question Answering: The Gemini model generates answers based on the context of the PDF.
 	4.	User Interaction: The user interacts with the system by typing queries, and the AI generates relevant responses.
 
- #Example
+ # Example
 
   Sample Interaction:
 	1.	Upload PDF: A research paper or documentation.
