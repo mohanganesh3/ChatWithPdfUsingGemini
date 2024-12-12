@@ -12,7 +12,6 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
 	•	Gemini: To process and understand the content of the PDFs.
 	•	Python: For building the backend.
 	•	Streamlit: For creating an interactive web interface.
-	•	OpenAI’s GPT: To power the AI model that understands the content and generates responses.
 
 # Installation
 
