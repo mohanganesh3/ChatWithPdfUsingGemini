@@ -20,25 +20,31 @@ ChatWithPdfUsingGemini is an AI-powered chatbot system built to interact with PD
 	•	pip (Python package installer)
 
 # Step-by-Step Installation Guide
-  1.Clone the Repository:
-  	Clone the repository to your local machine:
-  	git clone https://github.com/mohanganesh3/ChatWithPdfUsingGemini.git
-  	cd ChatWithPdfUsingGemini
-  2.Set Up a Virtual Environment:
-  	It’s recommended to use a virtual environment to manage dependencies:
-  	python3 -m venv venv
-  	source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-  3.Install Required Dependencies:
-  	Install the required Python libraries using pip:
-  	pip install -r requirements.txt
-  4.Set Up Environment Variables:
-  	Make sure to set up any necessary API keys or configuration settings for the Gemini and OpenAI models. These can typically be added to a .env file:
-  	GEMINI_API_KEY=<your_gemini_api_key>
-  5.Run the Application:
-  	Start the application using Streamlit:
-  	streamlit run app.py
-  	The app will open in your default browser. You can upload a PDF and start chatting with the chatbot
-  
+
+### Step 1: Clone the Repository
+Clone the repository to your local machine:
+git clone https://github.com/mohanganesh3/ChatWithPdfUsingGemini.git
+cd ChatWithPdfUsingGemini
+
+### Step 2: Set Up a Virtual Environment
+It’s recommended to use a virtual environment to manage dependencies:
+python3 -m venv venv
+source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+
+### Step 3: Install Required Dependencies
+Install the necessary Python libraries by running:
+pip install -r requirements.txt
+
+### Step 4: Set Up Environment Variables
+Make sure to set up the required API keys and configuration settings for **Gemini** and **OpenAI**. You can add them to a `.env` file in the root of your project:
+GEMINI_API_KEY=<your_gemini_api_key>
+OPENAI_API_KEY=<your_openai_api_key>
+
+### Step 5: Run the Application
+Start the application using **Streamlit**:
+streamlit run app.py
+This will open the app in your default browser. You can upload a PDF and start interacting with the chatbot.
+
   # Usage
 	1.	Upload PDF:
 	•	After launching the app, click the “Upload” button to select and upload a PDF file.
